@@ -10,3 +10,6 @@
 
 ### 프로젝트 일정
 > [>>> WBS 바로가기 <<<](https://docs.google.com/spreadsheets/d/1fMI0zRGw3pr7PJeak5cVxPyb6y7mVqiGhJyblehId4Y/edit#gid=1115838130)
+
+### 프로젝트 회고
+> [>>> 회고 보러가기 <<<]()
